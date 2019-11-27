@@ -1,0 +1,7 @@
+C:\Users\Windows  8\Documents\JA-Unity\clase3\MyGameClase3\MyGameClase3\bin\Debug\MyGameClase3.exe.config
+C:\Users\Windows  8\Documents\JA-Unity\clase3\MyGameClase3\MyGameClase3\bin\Debug\MyGameClase3.exe
+C:\Users\Windows  8\Documents\JA-Unity\clase3\MyGameClase3\MyGameClase3\bin\Debug\MyGameClase3.pdb
+C:\Users\Windows  8\Documents\JA-Unity\clase3\MyGameClase3\MyGameClase3\obj\Debug\MyGameClase3.csprojAssemblyReference.cache
+C:\Users\Windows  8\Documents\JA-Unity\clase3\MyGameClase3\MyGameClase3\obj\Debug\MyGameClase3.csproj.CoreCompileInputs.cache
+C:\Users\Windows  8\Documents\JA-Unity\clase3\MyGameClase3\MyGameClase3\obj\Debug\MyGameClase3.exe
+C:\Users\Windows  8\Documents\JA-Unity\clase3\MyGameClase3\MyGameClase3\obj\Debug\MyGameClase3.pdb
